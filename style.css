@@ -34,7 +34,7 @@ main{
 
 .mensaje{
     background: white;
-    background-image: url("/img/imagen_desafio.png");
+    background-image: url("img/imagen_desafio.png");
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
